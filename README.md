@@ -80,7 +80,7 @@ If you use this code, please cite the CoRe-Net paper. If you use the BRSR datase
   volume  = {190},
   pages   = {107709},
   year    = {2025},
-  doi     = {10.1016/j.neunet.2025.107709}
+  doi     = {https://doi.org/10.1016/j.neunet.2025.107709}
 }
 ```
 
